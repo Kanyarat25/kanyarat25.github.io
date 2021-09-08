@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>profile</title>
+<meta charset="UFT-8">
+</head>
+<body>
+<h1>ประวัติส่วนตัว</h1>
+<p>รูปภาพของฉัน</p>
+<img src="kanyarat.jpg" width="1080" height="1080"> 
+<br>ฉันชื่อ นางสาวกัลยรัตน์  ใจคง เลขประจำตัว 16215118 สาขาคอมพิวเตอร์ศึกษา
+</body>
+</html>
